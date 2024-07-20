@@ -148,6 +148,8 @@ header .content h1 {
 header .content p {
   color: #fff;
   margin: 20px 0 40px;
+  text-align: center;
+  font-size: 15px;
 }
 
 header * {
